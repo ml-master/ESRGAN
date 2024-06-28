@@ -32,10 +32,12 @@ The name rule of the image is {news_id}_top_img.png, such as gossipcop-541230_to
 <img src="https://github.com/ml-master/ESRGAN/blob/main/image.png" width="800" height="300" />  
 
 ### 新闻数据集 We also download the related images of the GossipCop dataset  result 
-<img src="https://github.com/ml-master/ESRGAN/blob/image_top_img.png" width="800" height="300" />  
+<img src="https://github.com/ml-master/ESRGAN/blob/main/result_top_img.png" width="800" height="300" />  
 
-### Style-based Fake  
-<img src="https://github.com/Preciousrs/MTTV/blob/main/Style-based%20Fake.png" width="800" height="300" />  
 
 ### 消融实验
-<img src="https://github.com/Preciousrs/MTTV/blob/main/%E6%B6%88%E8%9E%8D%E5%AE%9E%E9%AA%8C.png" width="800" height="400" />  
+<img src="https://github.com/ml-master/ESRGAN/blob/main/消融实验.png" width="800" height="400" />  
+
+### 消融实验结果
+<img src="https://github.com/ml-master/ESRGAN/blob/main/消融实验结果.png" width="800" height="400" />  
+
