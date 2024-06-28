@@ -28,11 +28,11 @@ The name rule of the image is {news_id}_top_img.png, such as gossipcop-541230_to
 
 
 ## 结果
-### Fakeddit_s  
-<img src="https://github.com/Preciousrs/MTTV/blob/main/fakeddit_s.png" width="800" height="300" />  
+### Celea  
+<img src="https://github.com/ml-master/ESRGAN/blob/main/image.png" width="800" height="300" />  
 
-### 微博  
-<img src="https://github.com/Preciousrs/MTTV/blob/main/weibo.png" width="800" height="300" />  
+### 新闻数据集 We also download the related images of the GossipCop dataset  result 
+<img src="https://github.com/ml-master/ESRGAN/blob/image_top_img.png" width="800" height="300" />  
 
 ### Style-based Fake  
 <img src="https://github.com/Preciousrs/MTTV/blob/main/Style-based%20Fake.png" width="800" height="300" />  
