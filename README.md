@@ -7,6 +7,9 @@ Wang_Yu_Wu_Gu_Liu_Dong_Qiao_Loy_2019,   title={ESRGAN: Enhanced Super-Resolution
 ## Setup Environment
 ### Install required packages 
 ```shell
+python3.9 pytorch1.12 cuda11.7 
+torch>=0.4.0 torchvision matplotlib numpy scipy pillow urllib3 
+scikit-image
 pip install -r requirements.txt
 ```
 ## dataset
@@ -23,3 +26,16 @@ Download images from this link: Google Drive  from: https://drive.google.com/dri
 We also download the related images of the GossipCop dataset. We remove the invalid images.
 The name rule of the image is {news_id}_top_img.png, such as gossipcop-541230_top_img.png.
 
+
+## 结果
+### Fakeddit_s  
+<img src="https://github.com/Preciousrs/MTTV/blob/main/fakeddit_s.png" width="800" height="300" />  
+
+### 微博  
+<img src="https://github.com/Preciousrs/MTTV/blob/main/weibo.png" width="800" height="300" />  
+
+### Style-based Fake  
+<img src="https://github.com/Preciousrs/MTTV/blob/main/Style-based%20Fake.png" width="800" height="300" />  
+
+### 消融实验
+<img src="https://github.com/Preciousrs/MTTV/blob/main/%E6%B6%88%E8%9E%8D%E5%AE%9E%E9%AA%8C.png" width="800" height="400" />  
