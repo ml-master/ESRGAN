@@ -19,3 +19,7 @@ Instrustion on running the script:
 2. Save the folder 'img_align_celeba' to '../data/'
 4. Run the sript using command 'python3 esrgan.py'
 
+Download images from this link: Google Drive  from: https://drive.google.com/drive/folders/11okt9IRDxXgfTr7Ae1wxl9CHZC1PphhC
+We also download the related images of the GossipCop dataset. We remove the invalid images.
+The name rule of the image is {news_id}_top_img.png, such as gossipcop-541230_top_img.png.
+
