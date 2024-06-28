@@ -26,6 +26,8 @@ Download images from this link: Google Drive  from: https://drive.google.com/dri
 We also download the related images of the GossipCop dataset. We remove the invalid images.
 The name rule of the image is {news_id}_top_img.png, such as gossipcop-541230_top_img.png.
 
+### data process
+对所有的数据都需要尺寸相同， 如果数据集图片尺寸不同通过transform image_size.py处理一下数据
 
 ## 结果
 ### Celea  
